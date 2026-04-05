@@ -345,9 +345,9 @@ curl -X POST http://localhost:8000/v1/licensing/trial/extend \
 ### Public installation references
 
 ```text
-Guide:      https://github.com/bwater-io/installer/blob/main/docs/INSTALL_GUIDE.md
-Screencast: https://raw.githubusercontent.com/bwater-io/installer/main/docs/media/customer-install-demo.mp4
-GIF:        https://raw.githubusercontent.com/bwater-io/installer/main/docs/media/customer-install-demo.gif
+Guide:      https://install.bwater.io/docs/INSTALL_GUIDE.md
+Screencast: https://install.bwater.io/docs/media/customer-install-demo.mp4
+GIF:        https://install.bwater.io/docs/media/customer-install-demo.gif
 ```
 
 ### Run UX tests with screenshots

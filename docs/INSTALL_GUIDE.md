@@ -226,9 +226,10 @@ Supported TLS modes:
 ### Public references
 
 - Public installer repo: `https://github.com/bwater-io/installer`
-- Public installation guide: `https://github.com/bwater-io/installer/blob/main/docs/INSTALL_GUIDE.md`
-- Public screencast (MP4): `https://raw.githubusercontent.com/bwater-io/installer/main/docs/media/customer-install-demo.mp4`
-- Public screencast (GIF): `https://raw.githubusercontent.com/bwater-io/installer/main/docs/media/customer-install-demo.gif`
+- Public docs index: `https://install.bwater.io/docs/index.html`
+- Public installation guide: `https://install.bwater.io/docs/INSTALL_GUIDE.md`
+- Public screencast (MP4): `https://install.bwater.io/docs/media/customer-install-demo.mp4`
+- Public screencast (GIF): `https://install.bwater.io/docs/media/customer-install-demo.gif`
 
 ---
 
